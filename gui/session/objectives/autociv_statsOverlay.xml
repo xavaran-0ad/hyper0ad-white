@@ -1,0 +1,6 @@
+<object name="autociv_statsOverlay"
+    size="100%-600 100%-258-100 100% 100%-100"
+    sprite="color:250 250 250 90"
+    hidden="true"
+    ghost="true"
+    type="text"/>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="fern_a">
+      <mesh>gaia/cypress_mediterranean_wild.dae</mesh>
+      <textures>
+        <texture file="gaia/temperate_bush_02.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>
