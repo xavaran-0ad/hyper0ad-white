@@ -9,7 +9,7 @@
   <group>
     <variant frequency="1" name="Fur-Brown">
       <textures>
-        <texture file="skeletal/mastiff_new.png" name="baseTex"/>
+        <texture file="props/garrison_cart_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
